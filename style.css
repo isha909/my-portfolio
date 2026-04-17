@@ -84,6 +84,7 @@
       align-items: center;
       padding: 10rem 4rem 6rem;
       position: relative; z-index: 1;
+      transform: translateY(-40px);
     }
     .hero-inner { max-width: 900px; }
     .hero-tag {
